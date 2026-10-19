@@ -1,4 +1,3 @@
-A Python-based cybersecurity incident risk analyzer
 # CyberShield - Security Incident Risk Analyzer
 
 ## Overview
